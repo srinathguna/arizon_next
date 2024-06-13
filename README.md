@@ -1,5 +1,10 @@
 
-##Arzon Digital Assignment tasks 
+## Arzon Digital Assignment tasks 
+1. Design conversion on Next.js and TailwindCSS done
+2. Products Data getting and filter the products done
+3. Pagination functionlites done
+
+
 ## Getting Started
 
 First, run the development server:
